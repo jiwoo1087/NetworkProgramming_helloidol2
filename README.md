@@ -13,5 +13,9 @@
    1. models
       1. Character
          1. name, feature, created_at, update_at
+         2. __str__():객체를 츨략할 때, 알맞은 string으로 출력하자
       2. python manage.py makemigrations boynextdoor
       3. python manage.py migrate boynextdoor
+   2. admin
+      1. Character
+      2. python manage.py createsuperuser
