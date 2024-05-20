@@ -23,3 +23,5 @@
       1. R: CharacterListView 
    4. templates/boynextdoor/
       1. character_list.html
+   5. urls
+      1. boynextdoor:chatacter_list
